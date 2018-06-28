@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-#link to github page - https://cupid04.github.io/
+Link to github page - https://cupid04.github.io/
 
 ## Table of Contents
 
